@@ -65,5 +65,37 @@ hr{
     border-bottom-right-radius: 30px;
 }
 
+.team-members img{
+    height: 288px;
+    width: 295px;
+
+}
+
+.top-customers hr{
+    border: 3px solid #FF9C35;
+    border-radius: 5px;
+    width: 400px;
+}
+
+#contact{
+    height: 300px;
+    background-color: gray;
+    margin-top: 10px;
+}
+#contact h6{
+    color: gray;
+}
+
+#contact hr{
+    width: 160px;
+}
+
+.container-fluid{
+    font-size: large;
+    font-weight: bold;
+    background-color: lightgray;
+    text-align: center;
+}
+
 
 
