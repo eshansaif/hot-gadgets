@@ -1,3 +1,69 @@
 .navbar{
     background-color: transparent;
 }
+
+.nav-link{
+    font-weight: bold;
+    font-size: large;
+}
+
+.hot-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray ;
+    text-align: center;
+}
+
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+hr{
+    border: 3px solid #FF9C35;
+    border-radius: 5px;
+    width: 100px;
+}
+
+
+
+.categories .categories-image{
+    width: 213px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 5px 5px 30px lightgrey;
+    border-radius: 10px;
+    
+}
+
+.categories .categories-image img{
+    display: block;
+    margin: 0 auto;
+}
+
+.categories .cat-1{
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 30px;
+}
+.categories .cat-2, .cat-3{
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 30px;
+}
+
+
+
